@@ -1,0 +1,11 @@
+name: 'SocialMedia'
+version: '1'
+description: 'SocailMedia Links'
+author: 'BinIch_DSL'
+website: 'https://github.com/SLDCollective'
+main: 'com.github.sldcollective.Social'
+commands:
+  social:
+    description: Information about Social Media
+    aliases: [discord, dc, ts, teamspeak]
+    usage: /<command>
